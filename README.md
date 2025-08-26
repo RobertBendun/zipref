@@ -25,12 +25,12 @@ Requirements:
 
 ## Results
 
-| Language   | Can you do it? | Why not?  |
+| Language   | Can you do it? | Comment  |
 |------------|----------------|-----------|
 | Ada        | Unknown        | |
 | C#         | Unknown        | |
-| C++        | Yes            | |
-| D          | Unknown        | |
+| C++        | Yes            | [Provided by standard library](https://en.cppreference.com/w/cpp/ranges/zip_view.html) |
+| D          | Yes            | [Provided by standard library](https://dlang.org/library/std/range/zip.html) |
 | Go         | No             | No operator overloading     |
 | Haskell    | Unknown        | |
 | JavaScript | No             | No operator overloading     |
