@@ -1,4 +1,17 @@
-## The Question
+# Building and running
+
+```
+cc -o nob nob.c
+./nob
+```
+
+To build and run only some examples:
+
+```
+./nob cpp python
+```
+
+# The Question
 
 Suppose that you have this general sorting algorithm definition in your favourite language:
 
